@@ -1,0 +1,15 @@
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.exe
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csprojAssemblyReference.cache
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.AssemblyInfo.cs
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.deps.json
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.json
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.runtimeconfig.dev.json
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.dll
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\KanyeWest.pdb
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CoreCompileInputs.cache
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.csproj.CopyComplete
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.dll
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.pdb
+C:\Users\johnd\source\repos\KanyeWest\KanyeWest\obj\Debug\netcoreapp3.1\KanyeWest.genruntimeconfig.cache
